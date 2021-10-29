@@ -17,5 +17,7 @@
   "attachments": "Anhänge werden vorbereitet...",
   "list": "Liste",
   "selected": "Ausgewählt",
-  "noProjectSelected": "Kein Projekt ausgewählt."
+  "noProjectSelected": "Kein Projekt ausgewählt.",
+  "noUserAssignedTicket": "Für das Ticket wurde noch kein Bearbeiter festgelegt. Erstelle neues Ticket aus E-Mail...",
+  "selectProject": "Bitte wählen Sie ein Projekt."
 }

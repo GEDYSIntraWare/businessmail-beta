@@ -17,5 +17,7 @@
   "attachments": "Attachments are prepared...",
   "list": "List",
   "selected": "Selected",
-  "noProjectSelected": "No project selected."
+  "noProjectSelected": "No project selected.",
+  "noUserAssignedTicket": "No user assigned to ticket. Create new ticket from email...",
+  "selectProject": "Please select a project."
 }
