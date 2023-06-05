@@ -50,6 +50,7 @@
   "LC53520": "Für diesen Nutzer konnte auf dem Server keine Mail Datenbank gefunden werden",
   "LC53552": "Mail nicht in der Datenbank des Zielservers gefunden. Bitte überprüfen Sie, dass auf dem Zielserver eine aktuelle Maildatenbank liegt!",
   "LC73057": "Ja",
+  "NO":"Nein",
   "LC73135": "OK",
   "LC73136": "Abbrechen",
   "LC73004": "Aktualisieren",
@@ -110,7 +111,7 @@
   "password": "Passwort",
   "loginSuccess": "Anmeldung erfolgreich.",
   "loginFailed": "Anmeldung fehlgeschlagen. Bitte überprüfen Sie Ihre Anmeldedaten.",
-  "tokenFailed": "Token konnte nicht gesetzt werden. Bitte melden Sie sich erneut an.",
+  "tokenFailed": "Der Token ist abgelaufen. Bitte melden Sie sich erneut an.",
   "urlInvalidBase": "Fehler bei der Kommunikation mit dem Zielserver. Login nicht erlaubt. Bitte überprüfen sie die eingegebene URL.",
   "inputMissing": "Bitte füllen Sie alle Felder aus."
 }

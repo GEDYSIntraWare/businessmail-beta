@@ -15,7 +15,7 @@
   "graphRelog": "Please sign out from Microsoft Graph and try again.",
   "licenses": "Licenses",
   "logout": "Logout Application",
-  "attachments": "Attachments are prepared...",
+  "attachments": "Attachments are being prepared...",
   "list": "List",
   "selected": "Selected",
   "noProjectSelected": "No project selected.",
@@ -50,6 +50,7 @@
   "LC53520": "Could not find mail database for this user on the server",
   "LC53552": "Mail not found in database of target server. Please check if your mail database on the target server is up-to-date.",
   "LC73057": "Yes",
+  "NO":"No",
   "LC73135": "OK",
   "LC73136": "Cancel",
   "LC73004": "Refresh",
@@ -110,7 +111,7 @@
   "password": "Password",
   "loginSuccess": "Login successful.",
   "loginFailed": "Login failed. Please check your login credentials.",
-  "tokenFailed": "Token could not be set. Please login again.",
+  "tokenFailed": "Token expired. Please log in again.",
   "urlInvalidBase": "Error communicating with server. Login not allowed. Please check, if the URL is entered correctly.",
   "inputMissing": "Please fill in all fields."
 }
