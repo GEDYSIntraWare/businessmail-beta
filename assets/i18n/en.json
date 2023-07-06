@@ -134,5 +134,7 @@
   "addressDatabase": "Address Database",
   "to": "To",
   "itemNotSupported": "This type of outlook item is not supported in this Add-in.",
-  "recentlyUsed": "Recently Used"
+  "recentlyUsed": "Recently Used",
+  "documentVerb": "Document",
+  "noActivities": "No Activities"
 }

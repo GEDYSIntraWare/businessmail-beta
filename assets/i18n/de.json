@@ -134,5 +134,7 @@
   "addressDatabase": "Adressdatenbank",
   "to": "An",
   "itemNotSupported": "Diese Art von Outlook-Element wird von diesem Add-In nicht unterstützt.",
-  "recentlyUsed": "Zuletzt Verwendet"
+  "recentlyUsed": "Zuletzt Verwendet",
+  "documentVerb": "Dokumentieren",
+  "noActivities": "Keine Aktivitäten"
 }
