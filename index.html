@@ -7,6 +7,16 @@
     <script type="text/javascript" src="./assets/office-js/office.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+      <script>
+    function onItemSendHandler(event) {
+      window.theEvent = event;
+      let button = document.getElementById('sendEventTrigger');
+      if (!button)
+        event.completed({ allowEvent: true });
+      else
+        button.click();
+    }
+  </script>
   <link rel="stylesheet" href="styles.160f4c81b47ee172.css"></head>
   <body class="mat-typography">
     <app-root></app-root>
