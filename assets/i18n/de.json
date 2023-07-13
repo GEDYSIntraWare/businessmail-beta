@@ -15,7 +15,7 @@
   "graph": "Verbindung zu Microsoft Graph nicht möglich. Bitte überprüfen Sie Ihre Browser-Einstellungen und melden sich erneut an.",
   "graphRelog": "Bitte melden Sie sich von Microsoft Graph ab und versuchen es erneut.",
   "licenses": "Lizenzen",
-  "logout": "Von CRM Abmelden",
+  "logout": "Von CRM abmelden",
   "attachments": "Anhänge werden vorbereitet...",
   "list": "Liste",
   "selected": "Ausgewählt",
@@ -123,7 +123,7 @@
   "selectedProjects": "Ausgewählte Projekte",
   "assignedProjects": "Zugeordnete Projekte",
   "recipients": "Empfänger",
-  "sender": "Sender",
+  "sender": "Absender",
   "requiredAttendee": "Benötigte Teilnehmer",
   "optionalAttendee": "Optionale Teilnehmer",
   "selectedAddressHasAssignedProjects": "Das ausgewählte Dokument ist Projekten zugeordnet. Auswahl öffnen?",
@@ -136,5 +136,9 @@
   "itemNotSupported": "Diese Art von Outlook-Element wird von diesem Add-In nicht unterstützt.",
   "recentlyUsed": "Zuletzt Verwendet",
   "documentVerb": "Dokumentieren",
-  "noActivities": "Keine Aktivitäten"
+  "noActivities": "Keine Aktivitäten",
+  "selectProjectPhases": "Projektphasen / Arbeitsvorgänge auswählen",
+  "recentDocuments": "Aktuelle Dokumente",
+  "pleaseLogIn": "Bitte melden sie sich an.",
+  "giLoginText": "Wenn Sie das Anmeldefenster nicht sehen, vergewissern Sie sich, dass Pop-ups in Ihrem Browser zugelassen sind, und schauen Sie nach, ob es auf einem anderen Bildschirm erscheint."
 }

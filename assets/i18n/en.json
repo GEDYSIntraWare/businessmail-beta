@@ -136,5 +136,9 @@
   "itemNotSupported": "This type of outlook item is not supported in this Add-in.",
   "recentlyUsed": "Recently Used",
   "documentVerb": "Document",
-  "noActivities": "No Activities"
+  "noActivities": "No Activities",
+  "selectProjectPhases": "Select Project Phases / Workactivities",
+  "recentDocuments": "Recent Documents",
+  "pleaseLogIn": "Please log in.",
+  "giLoginText": "If you don't see the log-in window make sure pop-ups are allowed in your browser and look, if it appeared on a different screen."
 }
