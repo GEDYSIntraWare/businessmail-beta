@@ -140,5 +140,6 @@
   "selectProjectPhases": "Projektphasen / Arbeitsvorgänge auswählen",
   "recentDocuments": "Aktuelle Dokumente",
   "pleaseLogIn": "Bitte melden sie sich an.",
-  "giLoginText": "Wenn Sie das Anmeldefenster nicht sehen, vergewissern Sie sich, dass Pop-ups in Ihrem Browser zugelassen sind, und schauen Sie nach, ob es auf einem anderen Bildschirm erscheint."
+  "giLoginText": "Wenn Sie das Anmeldefenster nicht sehen, vergewissern Sie sich, dass Pop-ups in Ihrem Browser zugelassen sind, und schauen Sie nach, ob es auf einem anderen Bildschirm erscheint.",
+  "noGraph": "Sie müssen sich bei Microsoft Graph anmelden, damit das BusinessMail Add-in richtig funktioniert."
 }

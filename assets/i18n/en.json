@@ -140,5 +140,6 @@
   "selectProjectPhases": "Select Project Phases / Workactivities",
   "recentDocuments": "Recent Documents",
   "pleaseLogIn": "Please log in.",
-  "giLoginText": "If you don't see the log-in window make sure pop-ups are allowed in your browser and look, if it appeared on a different screen."
+  "giLoginText": "If you don't see the log-in window make sure pop-ups are allowed in your browser and look, if it appeared on a different screen.",
+  "noGraph": "You have to login to Microsoft Graph in order that BusinessMail Add-in works properly."
 }
