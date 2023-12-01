@@ -17,7 +17,7 @@ xsi:type="MailApp">
     <AppDomain>https://www.gedys-intraware.de</AppDomain>
   </AppDomains>
   <Hosts>
-    <Host Name="MailHost"/>
+    <Host Name="Mailbox"/>
   </Hosts>
   <Requirements>
     <Sets>
@@ -158,7 +158,7 @@ xsi:type="MailApp">
               <!-- <LaunchEvent Type="OnMessageSend" FunctionName="onItemSendHandler" SendMode="PromptUser"/>
               <LaunchEvent Type="OnAppointmentSend" FunctionName="onItemSendHandler" SendMode="PromptUser" /> -->
               <LaunchEvent Type="OnMessageSend" FunctionName="onItemSendHandler" SendMode="SoftBlock"/>
-              <LaunchEvent Type="OnAppointmentSend" FunctionName="onItemSendHandler" SendMode="SoftBlock" />
+              <!-- <LaunchEvent Type="OnAppointmentSend" FunctionName="onItemSendHandler" SendMode="SoftBlock" /> -->
             </LaunchEvents>
             <SourceLocation resid="WebViewRuntime.Url"/>
           </ExtensionPoint>
