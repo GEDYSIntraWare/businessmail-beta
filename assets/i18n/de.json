@@ -187,13 +187,9 @@
   "ContainsDangerousContent": "Enthält möglicherweise unsichere Inhalte.",
   "assignedTo": "Zugeordnet zu",
   "updateButtonTooltip": "Aktualisierung der BM4O-Daten",
-<<<<<<< HEAD
   "licenseInfo": "Informationen über fremde Lizenzen",
   "contactCreationError": "Fehler beim Anlegen des Kontakts: ",
   "companyCreationError": "Fehler beim Anlegen der Firma: ",
   "errorWhileSavingCRMData": "Fehler beim Speichern von CRM-Daten. BM4O muss neu geladen werden.",
   "crmDataUpdated": "CRM Daten aktualisiert"
-=======
-  "licenseInfo": "Lizenzinformationen"
->>>>>>> 2d01213007b0f819ffe9ed2321ea8f5c3bbc75e9
 }
