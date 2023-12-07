@@ -4,11 +4,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" 
 xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" 
 xsi:type="MailApp">
-  <Id>83d64bdb-0712-4d46-85f1-f397440fd758</Id>
+  <Id>83d64bdb-0712-4d46-85f1-f397440fd757</Id>
   <Version>2.0.0.0</Version>
   <ProviderName>GEDYS IntraWare</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
-  <DisplayName DefaultValue="Business Mail"/>
+  <DisplayName DefaultValue="Business Mail Beta"/>
   <Description DefaultValue="Business Mail for Outlook Web App by GEDYS IntraWare GmbH."/>
   <IconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-beta/assets/gi_logo_80.png"/>
   <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-beta/assets/gi_logo_80.png"/>
@@ -17,7 +17,7 @@ xsi:type="MailApp">
     <AppDomain>https://www.gedys-intraware.de</AppDomain>
   </AppDomains>
   <Hosts>
-    <Host Name="MailHost"/>
+    <Host Name="Mailbox"/>
   </Hosts>
   <Requirements>
     <Sets>
@@ -158,7 +158,7 @@ xsi:type="MailApp">
               <!-- <LaunchEvent Type="OnMessageSend" FunctionName="onItemSendHandler" SendMode="PromptUser"/>
               <LaunchEvent Type="OnAppointmentSend" FunctionName="onItemSendHandler" SendMode="PromptUser" /> -->
               <LaunchEvent Type="OnMessageSend" FunctionName="onItemSendHandler" SendMode="SoftBlock"/>
-              <LaunchEvent Type="OnAppointmentSend" FunctionName="onItemSendHandler" SendMode="SoftBlock" />
+              <!-- <LaunchEvent Type="OnAppointmentSend" FunctionName="onItemSendHandler" SendMode="SoftBlock" /> -->
             </LaunchEvents>
             <SourceLocation resid="WebViewRuntime.Url"/>
           </ExtensionPoint>
@@ -172,10 +172,10 @@ xsi:type="MailApp">
         <bt:Image id="Icon.80x80" DefaultValue="https://gomobile.gedys-intraware.de/businessmail-beta/assets/gi_logo_80.png"/>
       </bt:Images>
       <bt:Urls>
-        <!-- <bt:Url id="Commands.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailv2/commands.html"/> -->
+        <!-- <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/> -->
         <bt:Url id="Taskpane.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmail-beta/"/>
         <bt:Url id="WebViewRuntime.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmail-beta/" />
-        <!-- <bt:Url id="JSRuntime.Url" DefaultValue="https://gomobile.gedys-intraware.de/businessmailv2/commands/commands.js" /> /commands/commands.html-->
+        <!-- <bt:Url id="JSRuntime.Url" DefaultValue="https://localhost:3000/businessmail/commands/commands.js" /> /commands/commands.html-->
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="GEDYS IntraWare Add-in"/>
