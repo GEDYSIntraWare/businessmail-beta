@@ -191,5 +191,7 @@
   "contactCreationError": "Fehler beim Anlegen des Kontakts: ",
   "companyCreationError": "Fehler beim Anlegen der Firma: ",
   "errorWhileSavingCRMData": "Fehler beim Speichern von CRM-Daten. BM4O muss neu geladen werden.",
-  "crmDataUpdated": "CRM Daten aktualisiert"
+  "crmDataUpdated": "CRM Daten aktualisiert",
+  "noSubject": "{Kein Betreff}",
+  "cantLoadData": "Beschädigte Daten. Daten können nicht geladen werden."
 }

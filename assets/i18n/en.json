@@ -191,5 +191,7 @@
   "contactCreationError": "Contact creation error: ",
   "companyCreationError": "Company creation error: ",
   "errorWhileSavingCRMData": "Error while saving CRM data. BM4O needs to be reloaded.",
-  "crmDataUpdated": "CRM data updated"
+  "crmDataUpdated": "CRM data updated",
+  "noSubject": "{No subject}",
+  "cantLoadData": "Corrupt data. Data cannot be loaded."
 }
