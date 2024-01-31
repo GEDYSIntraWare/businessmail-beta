@@ -193,5 +193,6 @@
   "errorWhileSavingCRMData": "Error while saving CRM data. BM4O needs to be reloaded.",
   "crmDataUpdated": "CRM data updated",
   "noSubject": "{No subject}",
-  "cantLoadData": "Corrupt data. Data cannot be loaded."
+  "cantLoadData": "Corrupt data. Data cannot be loaded.",
+  "tags": "Tags"
 }

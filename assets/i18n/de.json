@@ -193,5 +193,6 @@
   "errorWhileSavingCRMData": "Fehler beim Speichern von CRM-Daten. BM4O muss neu geladen werden.",
   "crmDataUpdated": "CRM Daten aktualisiert",
   "noSubject": "{Kein Betreff}",
-  "cantLoadData": "Beschädigte Daten. Daten können nicht geladen werden."
+  "cantLoadData": "Beschädigte Daten. Daten können nicht geladen werden.",
+  "tags": "Tags"
 }
