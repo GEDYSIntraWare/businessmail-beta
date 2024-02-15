@@ -194,5 +194,7 @@
   "crmDataUpdated": "CRM data updated",
   "noSubject": "{No subject}",
   "cantLoadData": "Corrupt data. Data cannot be loaded.",
-  "tags": "Tags"
+  "tags": "Tags",
+  "baInstanceStarting": "The BA instance is starting, please try again. Loaded: ",
+  "baInstanceNotAvailable": "The BA instance is not available over configured URL."
 }

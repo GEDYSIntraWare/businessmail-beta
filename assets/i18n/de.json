@@ -194,5 +194,7 @@
   "crmDataUpdated": "CRM Daten aktualisiert",
   "noSubject": "{Kein Betreff}",
   "cantLoadData": "Beschädigte Daten. Daten können nicht geladen werden.",
-  "tags": "Tags"
+  "tags": "Tags",
+  "baInstanceStarting": "Die BA-Instanz wird gestartet, bitte versuchen Sie es erneut. Geladen: ",
+  "baInstanceNotAvailable": "Die BA-Instanz ist über die konfigurierte URL nicht verfügbar."
 }
