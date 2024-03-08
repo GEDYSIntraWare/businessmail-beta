@@ -174,7 +174,7 @@
   "NewCompanyCreated": "Neue Firma erstellt.",
   "Create": "Erstellen",
   "Cancel": "Abbrechen",
-  "Apply": "Anwenden",
+  "Apply": "Bestätigen",
   "DocumentedTo": "Dokumentiert zu",
   "DocumentTo": "Dokumentieren zu",
   "Close": "Schließen",
@@ -197,5 +197,9 @@
   "cantLoadData": "Beschädigte Daten. Daten können nicht geladen werden.",
   "tags": "Tags",
   "baInstanceStarting": "Die BA-Instanz wird gestartet, bitte versuchen Sie es erneut. Geladen: ",
-  "baInstanceNotAvailable": "Die BA-Instanz ist über die konfigurierte URL nicht verfügbar."
+  "baInstanceNotAvailable": "Die BA-Instanz ist über die konfigurierte URL nicht verfügbar.",
+  "userSettings": "Benutzereinstellungen",
+  "settingsSaved": "Seetings saved",
+  "errorOnSettingsSave": "Fehler beim Speichern von Benutzereinstellungen",
+  "autoOpenNew": "Automatisches Öffnen eines neuen Kontakts/Firma"
 }

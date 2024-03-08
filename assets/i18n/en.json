@@ -197,5 +197,9 @@
   "cantLoadData": "Corrupt data. Data cannot be loaded.",
   "tags": "Tags",
   "baInstanceStarting": "The BA instance is starting, please try again. Loaded: ",
-  "baInstanceNotAvailable": "The BA instance is not available over configured URL."
+  "baInstanceNotAvailable": "The BA instance is not available over configured URL.",
+  "userSettings": "User settings",
+  "settingsSaved": "Einstellungen gespeichert",
+  "errorOnSettingsSave": "Error while saving user settings",
+  "autoOpenNew": "Automatically open new contact/company"
 }
