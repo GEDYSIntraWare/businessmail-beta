@@ -201,5 +201,12 @@
   "userSettings": "User settings",
   "settingsSaved": "Einstellungen gespeichert",
   "errorOnSettingsSave": "Error while saving user settings",
-  "autoOpenNew": "Automatically open new contact/company"
+  "autoOpenNew": "Automatically open new contact/company",
+  "selectFromAllDocuments": "Link mail to other document",
+  "doucmentSelection": "Select document",
+  "searchDocumentsInCRM": "Search for documents",
+  "documentDatabase": "Select Database",
+  "SelectDatabase": "Select Database",
+  "contacts": "Contact-Databases",
+  "projects": "Project-Databases"
 }
