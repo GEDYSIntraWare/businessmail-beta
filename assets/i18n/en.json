@@ -208,5 +208,9 @@
   "documentDatabase": "Select Database",
   "SelectDatabase": "Select Database",
   "contacts": "Contact-Databases",
-  "projects": "Project-Databases"
+  "projects": "Project-Databases",
+  "addLinkToMail": "Add Link(s) into Mail",
+  "addLinkTextToMail": "Add Link into Mail",
+  "removeFromList": "Remove from list",
+  "activateLinkOption": "Add links to email enabled"
 }
