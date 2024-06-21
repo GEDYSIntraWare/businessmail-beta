@@ -212,5 +212,7 @@
   "addLinkToMail": "Link(s) in Mail einfügen",
   "addLinkTextToMail": "Link in Mail einfügen",
   "removeFromList": "Aus Liste entfernen",
-  "activateLinkOption": "Links in Email hinzufügen"
+  "activateLinkOption": "Links in Email hinzufügen",
+  "documentButtonTooltipOff": "Bitte Dokumentierziel wählen",
+  "showContactsList": "Liste der Kontakte anzeigen"
 }

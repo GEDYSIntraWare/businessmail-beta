@@ -212,5 +212,7 @@
   "addLinkToMail": "Add Link(s) into Mail",
   "addLinkTextToMail": "Add Link into Mail",
   "removeFromList": "Remove from list",
-  "activateLinkOption": "Add links to email enabled"
+  "activateLinkOption": "Add links to email enabled",
+  "documentButtonTooltipOff": "Please select destination document",
+  "showContactsList": "Show list of contacts"
 }

@@ -56,7 +56,6 @@ xsi:type="MailApp">
       <Host xsi:type="MailHost">
         <Runtimes>
           <Runtime resid="WebViewRuntime.Url">
-            <Override type="javascript" resid="JSRuntime.Url"/>
           </Runtime>
         </Runtimes>
         <DesktopFormFactor>
