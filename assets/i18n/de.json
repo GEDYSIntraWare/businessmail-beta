@@ -199,7 +199,7 @@
   "baInstanceStarting": "Die BA-Instanz wird gestartet, bitte versuchen Sie es erneut. Geladen: ",
   "baInstanceNotAvailable": "Die BA-Instanz ist über die konfigurierte URL nicht verfügbar.",
   "userSettings": "Benutzereinstellungen",
-  "settingsSaved": "Seetings saved",
+  "settingsSaved": "Einstellungen gespeichert",
   "errorOnSettingsSave": "Fehler beim Speichern von Benutzereinstellungen",
   "autoOpenNew": "Automatisches Öffnen eines neuen Kontakts/Firma",
   "selectFromAllDocuments": "Mail zu anderem Dokument dokumentieren",

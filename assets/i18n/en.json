@@ -199,7 +199,7 @@
   "baInstanceStarting": "The BA instance is starting, please try again. Loaded: ",
   "baInstanceNotAvailable": "The BA instance is not available over configured URL.",
   "userSettings": "User settings",
-  "settingsSaved": "Einstellungen gespeichert",
+  "settingsSaved": "Settings saved",
   "errorOnSettingsSave": "Error while saving user settings",
   "autoOpenNew": "Automatically open new contact/company",
   "selectFromAllDocuments": "Link mail to other document",
