@@ -4,7 +4,7 @@
   xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>83d64bdb-0712-4d46-85f1-f397440fd757</Id>
-  <Version>2.0.0.2</Version>
+  <Version>3.0.0.8</Version>
   <ProviderName>GEDYS IntraWare</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
   <DisplayName DefaultValue="Business Mail Beta"/>
