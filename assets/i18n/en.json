@@ -223,6 +223,5 @@
   "searchCompanyInCRM": "Search company",
   "NewContactCreatedAndConnected": "New contact created and added to selected company",
   "refreshLogin": "Please retry login.",
-  "loaded": "Loaded: ",
-  "noFooterInfoAvailableManualDataNeeded": "No address data received from mail footer, please insert data manually."
+  "loaded": "Loaded: "
 }
