@@ -225,5 +225,6 @@
   "refreshLogin": "Bitte Login erneut ausführen.",
   "loaded": "Geladen: ",
   "noFooterInfoAvailableManualDataNeeded": "Keine Adressdaten aus E-Mail Footer erhalten. Bitte Daten manuell eingeben.",
-  "dismissMessage": "OK"
+  "dismissMessage": "OK",
+  "notConnected": "getrennt"
 }

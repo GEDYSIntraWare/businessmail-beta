@@ -225,5 +225,6 @@
   "refreshLogin": "Please retry login.",
   "loaded": "Loaded: ",
   "noFooterInfoAvailableManualDataNeeded": "No address data received from mail footer, please insert data manually.",
-  "dismissMessage": "OK"
+  "dismissMessage": "OK",
+  "notConnected": "disconnected"
 }
